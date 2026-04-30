@@ -110,39 +110,6 @@
 
 @media (min-width: 577px) and (max-width: 1300px){
 
-
-    #Castles h2 {
-        margin-bottom: 25px;
-    }
-
-    #Castles .container .firstTowCards,
-    #Castles .container .secondTowCards {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        height: 22%;
-        width: 100%;
-    }
-
-    #Castles .container .firstTowCards .cards,
-    #Castles .container .secondTowCards .cards {
-        margin: 9px;
-    }
-
-
-
-    #Castles .cards h3,
-    #Castles .cards h4 {
-        font-size: 15px;
-        margin: 5px;
-    }
-
-
-
-
-
-
-
     #Castles h2 {
         font-size: 35px;
     }
@@ -155,7 +122,7 @@
     #Castles .container .secondTowCards {
         display: flex;
         justify-content: space-around;
-        height: 38%;    /* تغيير غريب */
+        height: 37%;    /* تغيير غريب */
         width: 100%; 
     }
 
