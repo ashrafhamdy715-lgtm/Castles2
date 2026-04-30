@@ -50,14 +50,14 @@ body {
 #Castles .container .firstTowCards {
     display: flex;
     justify-content: space-around;
-    height: 48%;
+    height: 45%;
     width: 100%; 
    
 }
 
 
 #Castles .container .firstTowCards .cards {
-    width: 48%;
+    width: 45%;
     text-align: center;
     height: 100%;
     border-radius: 8px;
@@ -70,7 +70,7 @@ body {
 
 #Castles .container .firstTowCards .cards:hover,
 #Castles .container .secondTowCards .cards:hover {
-    width: 49%;
+    transform: scale(1.12);
     cursor: pointer;
 }
 
@@ -89,13 +89,13 @@ body {
 #Castles .container .secondTowCards {
     display: flex;
     justify-content: space-around;
-    height: 48%;
+    height: 45%;
     width: 100%; 
 }
 
 
 #Castles .container .secondTowCards .cards {
-    width: 48%;
+    width: 45%;
     text-align: center;
     height: 100%;
     border-radius: 8px;
