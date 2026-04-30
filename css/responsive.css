@@ -11,6 +11,7 @@
 
 
 
+
     #Castles .container .firstTowCards,
     #Castles .container .secondTowCards {
         display: flex;
@@ -18,6 +19,10 @@
         align-items: center;
         height: 15%;
         width: 100%;
+    }
+
+    #Castles .container .firstTowCards {
+        height: 17%;
     }
 
 
