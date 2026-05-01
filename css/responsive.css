@@ -55,7 +55,9 @@
         transition-duration: 1s;
     }
 
-
+    .popup .content .image img {
+        border-radius: 10px 10px 0px 0px;
+    }    
 
     .popup .content .image,
     .popup .content .content-inner {
@@ -245,7 +247,9 @@
         transition-duration: .3s;
     }
 
-
+    .popup .content .image img {
+        border-radius: 10px 0px 0px 10px;
+    }
 
 }
 
